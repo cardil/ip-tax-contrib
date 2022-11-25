@@ -1,2 +1,2 @@
 # ip-tax-contributions
-Generate a list of contributions for :flag-pl: IP Tax form
+Generate a list of contributions for 🇵🇱 IP Tax form
